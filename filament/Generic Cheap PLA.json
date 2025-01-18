@@ -1,0 +1,25 @@
+{
+    "filament_flow_ratio": [
+        "1.039"
+    ],
+    "filament_max_volumetric_speed": [
+        "20"
+    ],
+    "filament_settings_id": [
+        "Generic Cheap PLA"
+    ],
+    "filament_vendor": [
+        "Generic"
+    ],
+    "from": "User",
+    "inherits": "Flashforge PLA @FF AD5M",
+    "is_custom_defined": "0",
+    "name": "Generic Cheap PLA",
+    "nozzle_temperature_range_low": [
+        "205"
+    ],
+    "pressure_advance": [
+        "0.03"
+    ],
+    "version": "1.8.0.0"
+}
